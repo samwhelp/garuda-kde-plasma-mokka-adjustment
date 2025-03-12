@@ -66,4 +66,4 @@ RollOverDesktops=true
 [org.kde.kdecoration2]
 NoPlugin=false
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Sweet-Dark-transparent
+theme=__aurorae__svg__CatppuccinMocha-Classic
