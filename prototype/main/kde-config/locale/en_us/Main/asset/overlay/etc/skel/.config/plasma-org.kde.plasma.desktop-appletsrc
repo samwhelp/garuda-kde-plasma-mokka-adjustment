@@ -28,7 +28,6 @@ remove=true
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
-ItemGeometries-1366x768=
 ItemGeometriesHorizontal=
 activityId=9d8ae070-8a25-4665-b7fc-5c80a2a1336e
 formfactor=0
