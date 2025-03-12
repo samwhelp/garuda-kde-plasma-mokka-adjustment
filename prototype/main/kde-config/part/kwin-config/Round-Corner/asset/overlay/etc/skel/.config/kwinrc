@@ -54,15 +54,18 @@ kwin4_effect_translucencyEnabled=true
 wobblywindowsEnabled=true
 
 [Round-Corners]
-ActiveOutlineAlpha=255
+ActiveOutlineAlpha=253
 ActiveOutlineUseCustom=false
 ActiveOutlineUsePalette=true
-InactiveCornerRadius=20
 InactiveOutlineAlpha=255
-InactiveOutlineColor=29,153,243
-InactiveOutlineThickness=3
+InactiveOutlinePalette=19
+InactiveOutlineThickness=3.5
+InactiveOutlineUseCustom=false
+InactiveOutlineUsePalette=true
 InactiveSecondOutlineThickness=0.25
-OutlineThickness=3
+InactiveCornerRadius=20
+InactiveShadowSize=25
+OutlineThickness=4.5
 SecondOutlineThickness=0.25
 Size=20
 
