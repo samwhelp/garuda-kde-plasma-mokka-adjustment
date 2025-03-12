@@ -29,7 +29,7 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
 ItemGeometriesHorizontal=
-activityId=9d8ae070-8a25-4665-b7fc-5c80a2a1336e
+activityId=
 formfactor=0
 immutability=1
 lastScreen=0
@@ -290,7 +290,7 @@ AppletOrder=25;26
 
 [Containments][27]
 ItemGeometriesHorizontal=
-activityId=9d8ae070-8a25-4665-b7fc-5c80a2a1336e
+activityId=
 formfactor=0
 immutability=1
 lastScreen=1
