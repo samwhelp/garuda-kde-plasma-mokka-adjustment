@@ -280,7 +280,7 @@ plugin=org.kde.plasma.icontasks
 [Containments][24][Applets][26][Configuration][General]
 fill=false
 iconSpacing=2
-launchers=applications:org.garudalinux.rani.desktop,applications:org.kde.konsole.desktop,preferred://browser,preferred://filemanager,applications:org.kde.plasma-systemmonitor.desktop,applications:snapper-tools.desktop,applications:systemsettings.desktop,applications:octopi.desktop
+launchers=preferred://filemanager,applications:org.kde.kate.desktop,preferred://browser,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:snapper-tools.desktop,applications:octopi.desktop,applications:org.garudalinux.rani.desktop
 maxStripes=1
 showOnlyCurrentDesktop=false
 showOnlyCurrentScreen=false
