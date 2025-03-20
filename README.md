@@ -15,6 +15,9 @@
 | [Garuda Adjustment](https://samwhelp.github.io/garuda-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-adjustment) |
 
 
+> [Keybind Cheatsheet](https://samwhelp.github.io/garuda-kde-plasma-mokka-adjustment/read/cheatsheet/keybind.html)
+
+
 
 
 ## Subject
@@ -30,4 +33,3 @@
 | ---- |
 | [Garuda Kde Plasma Mokka Config](https://github.com/samwhelp/garuda-kde-plasma-mokka-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/garuda-adjustment/tree/main/prototype/main/tool-config/part) |
-
